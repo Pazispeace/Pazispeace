@@ -25,7 +25,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Also learning TypeScript
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, codeWars and read tech articles. I also like to learn about other cultures and their languages, I am currently learning Japanese and German.
+- :zap: In my free time, I solve problems on GeeksforGeeks, codeWars and read tech articles. I also like to learn about other cultures and their languages, I´m currently learning Japanese 🇯🇵 and German 🇩🇪 .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pazispeace-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pazispeace/)
 
