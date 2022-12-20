@@ -11,9 +11,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=pazispeace&style=flat-square&color=blue" alt=""/>
   <h1>
-        <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" height="auto"/>
  Hi 👋, I'm Luis Paz
-    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" height="auto"/>
 </h1>
 </div>
 
